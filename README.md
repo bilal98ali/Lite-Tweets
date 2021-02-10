@@ -1,6 +1,6 @@
 # Project 2 - *Lite Tweets*
 
-**Lite Tweets** is an Android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**Lite Tweets** is an Android app that allows a user to view his/her Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time Spent: **3.5** hrs.
 
