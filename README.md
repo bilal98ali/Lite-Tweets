@@ -30,7 +30,7 @@ The following **additional** feature were implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/dVTrVT3SnSESDxc20t/giphy.gif' title='Walkthrough' width='' alt='GIF Walkthrough' />
+<img src="https://s2.gifyu.com/images/Lite-Tweets-Part-1---Walkthrough.gif"><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
