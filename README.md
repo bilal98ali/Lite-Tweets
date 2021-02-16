@@ -37,7 +37,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-* Not able to implement timestamps in time.
 * Additional changes/features may be implemented in the future. 
 
 ## Open-Source Libraries Used
