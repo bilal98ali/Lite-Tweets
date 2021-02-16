@@ -31,7 +31,7 @@ The following **additional** feature(s) were implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://s2.gifyu.com/images/Lite-Tweets-Part-1---Walkthrough.gif"><br>
+<img src="https://s2.gifyu.com/images/Lite-Tweets-Part-2---Walkthrough.gif"><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
