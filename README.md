@@ -6,7 +6,7 @@ Time Spent: **3.5** hrs.
 
 ## User Stories
 
-The following **required** functionality is completed:
+**Part 1** - The following **required** functionality is completed:
 
 - [x] User can **sign in to Twitter** using OAuth login.
 - [x] User can **view tweets from their home timeline**.
@@ -14,9 +14,18 @@ The following **required** functionality is completed:
 - [ ] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h".
 - [x] User can refresh tweets timeline by pulling down to refresh.
 
-The following **additional** feature were implemented:
+**Part 2**  - The following **required** functionality is completed:
 
-- [x] Changed original app icon and theme color of the app for "Twitter-branded" feel.
+- [x] User can **compose and post a new tweet**
+- [x] User can click a “Compose” icon in the Action Bar on the top right
+- [x] User can then enter a new tweet and post this to twitter
+- [x] User is taken back to home timeline with **new tweet visible** in timeline
+- [x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+- [ ] User can **see a counter with total number of characters left for tweet** on compose tweet page
+
+The following **additional** feature(s) were implemented:
+
+- [x] Changed app launcher icon and theme color of app for "Twitter-branded" feel.
 
 ## App Walkthrough
 
