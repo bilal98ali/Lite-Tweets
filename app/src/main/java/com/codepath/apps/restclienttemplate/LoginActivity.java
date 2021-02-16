@@ -1,6 +1,9 @@
 package com.codepath.apps.restclienttemplate;
 
+import android.app.ActionBar;
 import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
@@ -57,9 +60,9 @@ public class LoginActivity extends OAuthLoginActionBarActivity<TwitterClient> {
 		e.printStackTrace();
 	}
 
-	// Click handler method for the button used to start OAuth flow
+	// Click handler method for the btnTweet used to start OAuth flow
 	// Uses the client to initiate OAuth authorization
-	// This should be tied to a button used to login
+	// This should be tied to a btnTweet used to login
 	public void loginToRest(View view) {
 		getClient().connect();
 	}
